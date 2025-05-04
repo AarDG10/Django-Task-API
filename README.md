@@ -28,9 +28,6 @@ This project is a RESTful **Task Management System** built using **Django** and 
 ---
 
 ## 🛠️ Setup & Build Instructions
-
-- git clone https://gitlab.com/aman.goel/django-tasks-assignment.git
-- cd django-tasks-assignment
 - ### Docker Build
     - docker-compose up --build
 - The Api will then be available at http://localhost:8000/tasks/
